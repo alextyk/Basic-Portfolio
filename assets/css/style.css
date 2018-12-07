@@ -85,6 +85,8 @@ header {
     top: 0%;
     height: 76px;
     border-bottom: 2px solid #cccccc;
+    margin: -8px;
+    
     
 
 }
@@ -106,7 +108,7 @@ header {
     float: left;
     width: 300px;
     height: 300px;
-    margin: 20px;
+    margin: 0 20px 20px 0;
 }
 
 footer {
@@ -116,6 +118,8 @@ footer {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-top: 20px;
     border-top: 7px solid #4aaaa5;
+    margin: -8px;
+    margin-bottom: -20px;
     
   
     
@@ -225,7 +229,7 @@ footer {
     text-align: center;
     position: relative;
     top: -80px;
-    width: 149px;
+    width: 148px;
 }
 
 .main-section-c {
